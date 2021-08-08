@@ -34,10 +34,9 @@ with open('assets/potential-contacts.txt', 'r+') as f:
 
 
 with open('assest/emails.txt', 'r+') as f:
-    
+    pass
 
-   
-        
+
 # write filtered out numbers to our phone_numbers.txt 
 with open('assets/phone_numbers.txt', 'w+') as f:
     for numbers in all_numbers:
