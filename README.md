@@ -27,7 +27,8 @@
 
 
 ### Implementation Notes
-
+ - > $`poetry new automation`
+ 
 ### User Acceptance Tests
 
 - The ‘phone_numbers.txt’ and ‘emails.txt’ files will be verified by an automated system. So make sure to match the naming/formatting requirements exactly.
